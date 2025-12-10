@@ -31,7 +31,6 @@ jira-slack/
 ### 1. Install Dependencies
 
 ```bash
-cd /path/to/jira-slack
 pip install -r requirements.txt
 ```
 
